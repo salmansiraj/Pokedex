@@ -1,0 +1,53 @@
+body{
+	padding-top: 70px;
+}
+
+.navbar-inverse .navbar-nav>li>a { 
+	color: white ;
+ }
+
+ .navbar-inverse .navbar-brand {  
+ 	color: white;
+ }
+
+ .fa {
+    padding: 20px;
+    font-size: 30px;
+    width: 50px;
+    text-align: center;
+    text-decoration: none;
+}
+
+.fa-instagram {
+  background: #125688;
+  color: white;
+}
+
+.fa-linkedin {
+  background: #007bb5;
+  color: white;
+ }
+
+ul { 
+  list-style: none;
+ }
+
+.project {
+  background-color: #acb5c4;
+  border: none;
+  color: white;
+  padding: 14px 32px;
+  text-align: center;
+  font-size: 16px;
+  margin: 4px 2px;
+  opacity: 0.6;
+  transition: 0.3s;
+}
+
+.project:hover {
+  opacity: 1
+}
+
+
+
+
