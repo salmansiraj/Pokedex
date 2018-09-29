@@ -1,4 +1,4 @@
 # pokedex
 Pokedex using React
 
-![Pokedex Image](Pokedex Orientation.png)
+![Pokedex Image](pokedex/Pokedex Orientation.png)
