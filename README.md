@@ -1,5 +1,5 @@
 # pokedex
-Create a pokedex using React
+Created a pokedex using React
 ------------------------------------
 Used a PokeApi to obtain Pokemon sprites with each respective data.
 
