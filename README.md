@@ -1,4 +1,6 @@
 # pokedex
-Pokedex using React
+Create a pokedex using React
+------------------------------------
+Used a PokeApi to obtain Pokemon sprites with each respective data.
 
-![test](pokedex/pokedex/image1.png)
+![test](https://cdn-images-1.medium.com/max/1600/1*6s_MA7mz1MYblVRWUF0OqA.png)
