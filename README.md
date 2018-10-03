@@ -3,7 +3,7 @@ Created a pokedex using React
 ------------------------------------
 Used a PokeApi to obtain Pokemon sprites with each respective data (ID, Name, Type)
 
-Built with: 
+Built with
 ---------
 - React 
 - Javascript
